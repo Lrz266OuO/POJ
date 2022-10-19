@@ -5,9 +5,15 @@ POJ solutions
 |:----:|:----:|:----:|
 |1000|A+B Problem|y|
 |1004|Financial Management|y|
-|1003|Hangover|n|
+|1003|Hangover|y|
 |1002|487-3279|n|
 |1005|I Think I Need a Houseboat|n|
+|1006|Biorhythms|n|
+|1007|DNA Sorting|n|
+|1001|Exponentiation|n|
+|1088|滑雪|n|
+|1011|Sticks|n|
+|1163|The Triangle|n|
 
 #### Reference
 
