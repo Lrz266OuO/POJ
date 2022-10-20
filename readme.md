@@ -6,8 +6,8 @@ POJ solutions
 |1000|A+B Problem|y|
 |1004|Financial Management|y|
 |1003|Hangover|y|
-|1002|487-3279|n|
-|1005|I Think I Need a Houseboat|n|
+|1002|487-3279|y|
+|1005|I Think I Need a Houseboat|y|
 |1006|Biorhythms|n|
 |1007|DNA Sorting|n|
 |1001|Exponentiation|n|
