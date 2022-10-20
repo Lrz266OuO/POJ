@@ -11,3 +11,39 @@
  *      Use the plural form ``days'' even if the answer is 1.
  * @Hint: 
  */
+
+#include<iostream>
+#include<string.h>
+#define N 21620     // 注意特殊数据，例如24,29,34,2
+using namespace std;
+
+int time[N];
+
+int main(){
+    int count = 1;
+    int p, e, i, d;
+    while(cin>>p>>e>>i>>d){
+        if(p==-1&&e==-1&&i==-1&&d==-1) break;
+        memset(time, 0, sizeof(time));
+        p = p%23;   // 体力周期23天
+        e = e%28;   // 情感周期28天
+        i = i%33;   // 智力周期33天
+        for(int item=p; item<N; item=item+23){
+            time[item]++;
+        }
+        for(int item=e; item<N; item=item+28){
+            time[item]++;
+        }
+        for(int item=i; item<N; item=item+33){
+            time[item]++;
+        }
+        for(int item=0; item<N; item++){
+            if(time[item]==3 && item>d){
+                cout<<"Case "<<count<<": the next triple peak occurs in "<<item-d<<" days."<<endl;
+                break;
+            }
+        }
+        count++;
+    }
+    return 0;
+}
