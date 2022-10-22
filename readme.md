@@ -11,7 +11,7 @@
 |ID|Title|status|
 |:----:|:----:|:----:|
 | 1000 | A+B Problem |y|
-| 1001 | Exponentiation |n|
+| 1001 | Exponentiation |y|
 | 1002 | 487-3279 |y|
 | 1003 | Hangover |y|
 | 1004 | Financial Management |y|
