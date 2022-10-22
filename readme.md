@@ -98,7 +98,7 @@
 | 1085 | Triangle War |n|
 | 1086 | Unscrambling Images |n|
 | 1087 | A Plug for UNIX |n|
-| 1088 | 滑雪 |n|
+| 1088 | 滑雪 |y|
 | 1089 | Intervals |n|
 | 1090 | Chain |n|
 | 1091 | 跳蚤 |n|
@@ -173,7 +173,7 @@
 | 1160 | Post Office |n|
 | 1161 | Walls |n|
 | 1162 | Building with Blocks |n|
-| 1163 | The Triangle |n|
+| 1163 | The Triangle |y|
 | 1164 | The Castle |n|
 | 1165 | The Primes |n|
 | 1166 | The Clocks |n|
